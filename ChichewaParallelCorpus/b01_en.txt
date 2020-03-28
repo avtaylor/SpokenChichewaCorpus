@@ -1,0 +1,70 @@
+0,"Alliance One International, Inc"
+1, was created to meet the challenges of a 21st Century business environment and we are committed to meeting those challenges successfully on all fronts
+2, Foremost among them is our commitment to conduct our business with complete integrity
+3,"Our worldwide reputation for honest and reliable business conduct, built by so many people over so many years, will be tested and proven in each business transaction we make"
+4," We are more global, dynamic and customer-driven than ever before"
+5, But our quest for competitive excellence and customer satisfaction begins and ends with our commitment to lawful and ethical conduct and as a global company we must create and follow a set of global rules
+6,Our Code of Business Conduct is our guide to ethical and lawful conduct
+7," It clearly defines the Company’s expectations for legal and ethical behavior on the part of every employee – an obligation that is, in fact, a condition of employment"
+8," AOI directors, officers, employees and agents are expected to conduct the Company’s business according to the highest standards of professional ethics, financial integrity and legality"
+9,"All of us have many demands on our time, but the information contained in the CBC will only be effective if you take the time and make the effort to read the materials and apply these standards of conduct in your business activities"
+10," If any aspect of the CBC is unclear to you or if you have questions about a situation you are facing, your concerns can be discussed directly with your supervisor, human resource representative or the Corporate Compliance Director"
+11, You may also access Alliance One’s Compliance Helpline from each of our locations worldwide through either the toll-free telephone number or the website
+12,A conflict of interest occurs when an individual’s private interest interferes– or has the appearance of interfering – with the interests of the Company as a whole
+13," A conflict situation can arise if a director, officer, employee, or agent takes actions or has interests that may make it difficult to perform his or her job objectively and effectively"
+14," Conflicts of interest also arise if a director, officer, employee, agent or a member of his or her family, receives improper personal benefits as a result of his or her position with the Company"
+15," Securities Trading, Corporate Opportunities and Outside Employment, Business Interests & Investments are examples of specific issue-areas where you may encounter conflicts of interest"
+16,"Potential conflicts of interest and related party transactions must be disclosed in writing to the CCD or CLO, and properly documented per Company policy"
+17," Having a conflict of interest is not necessarily a violation of our Code of Business Conduct, but failing to disclose it is"
+18,Potential or actual
+19," earnings announcements or estimates, or changes to previously released announcements or estimates;"
+20, financial results;
+21, write-downs and additions to reserves for bad debts;
+22, expansion or downsizing of operations;
+23," new products, inventions or discoveries;"
+24, major litigation or government actions;
+25," mergers, acquisitions, tender offers, joint ventures or changes in assets;"
+26, changes in analyst recommendations or debt ratings;
+27, events regarding the Company’s securities
+28, changes in control of the Company or extraordinary management developments;
+29, extraordinary borrowing;
+30, liquidity problems; and
+31, changes in auditors or auditor notification that the Company may no longer rely on an audit report
+32,"Bribery is illegal, whether the bribe is offered to a government official (public sector bribery), or a private company or citizen (private sector bribery)"
+33, It harms the communities where we operate
+34, We must actively support efforts to stop bribery
+35,Each of us must strictly comply with all domestic and extraterritorial anti-bribery laws
+36, Extraterritorial anti-bribery laws are the laws of one country that prohibit bribery in other countries
+37,"Although bribery is illegal and against Company policy regardless of whether the bribe is offered to a government official or a private citizen, customer or supplier, unique concerns exist in each instance that Alliance One employees need to be aware of"
+38,"Cash, cash equivalents, or other benefits (travelers checks, travel benefits);"
+39, Personal services;
+40, Employment or the offer of employment;
+41, Charitable contributions for the benefit of the official;
+42, Political contributions; and
+43," Use of the Company’s facilities (including but not limited to aircraft, houses, vehicles, boats, etc"
+44,") by government officials or their staff other than for purposes of promoting, demonstrating or explaining the Company’s products or services"
+45,Money laundering occurs when persons try to make the proceeds of crime appear legitimate by filtering them through non-criminal ventures
+46, Laws in many countries prohibit acceptance or use of the proceeds of criminal activities
+47, You must comply with all applicable money laundering laws and laws that require reporting of cash and other suspicious transactions
+48," You must use due diligence to obtain enough information about customers, suppliers, and others with whom you have business relationships to be satisfied that their money comes from legitimate business activities"
+49, You must comply with all rules concerning acceptable forms of payment
+50, It is against Company policy to accept cash payment of any invoice
+51," It is also against Company policy, except under extraordinary circumstances with the approval of the CCD, to accept payments in cash equivalents such as money orders or travelers checks, or to accept checks from unknown third parties"
+52," If a cash or similar transaction is unavoidable, you must take care to comply with the detailed and complex reporting obligations associated with such transactions, including obligations imposed by the United States Internal Revenue Service"
+53,"You must to the extent possible be sure all customers, suppliers, and others with whom you have a business relationship are willing to comply in full with all record keeping duties and are willing to accurately report all aspects of a transaction"
+54,Know and live the standards
+55," By knowing, understanding, and following applicable laws and Company policies, as well as our core values, each of us can serve as a role model"
+56,Know the law and ask tough questions
+57, You are expected to be familiar with the laws that apply to your specific job function and level of responsibility
+58," If you are not sure whether a law or Company policy applies, or whether it exists at all, ask the Company’s Chief Legal Officer or CCD"
+59,Don’t make assumptions
+60, Do not assume that management already knows or doesn’t care about an issue or situation
+61," Also, do not assume that no action will be taken"
+62, AOI management is dedicated to ensuring that the standards of legal and ethical behavior are upheld
+63, We want you to tell us if something is wrong
+64,"Don’t ignore violations, report them"
+65, We all need to take the law and Company policies seriously
+66," If you think someone may be violating a law or policy, please take steps to address the situation
+67, Report it to management, the CCD, your Local Compliance Manager, the Audit Committee of the Board of Directors, or the Compliance Helpline (anonymously if you wish)"
+68, Don’t be pressured
+69," It is never acceptable to violate a law or policy, nor should you ever feel encouraged or pressured to do so – even if you think the violation will improve the bottom line or help to meet a performance goal"

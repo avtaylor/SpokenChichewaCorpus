@@ -1,0 +1,71 @@
+,0
+0, ULAMULIRO PA CHISAMALIRO CHA NKHALANGO 
+1,KUFOTOKOZERA ZA NKHALANGO 
+2,KUFOTOKOZERA MWACHIDULE 
+3, ZOMERA ZOSIYANASIYANA ZA M’DERALI 
+4, MITUNDU YA DOTHI LOSIYANASIYANA 
+5, MALIRE 
+6, UMWINI WA MALO 
+7, OGWIRITSA NTCHITO NKHALANGO
+8, TIMADERA TACHISAMALIRO CHA NKHALANGO (FMUs) 
+9, ZOLINGA ZAZIKULUZIKULU ZOLUNJIKA KWENIKWENI DERA LOSAKOLOLEKA NDI  LOKOLOLEKA M’NKHALANGO 
+10, ZOLINGA ZOCHEPERAPO ZOLUNJIKA KWENIKWENI DERA LOKOLOLEKA NDI LOKOLOLEKA M’NKHALANGO 
+11, ZOLINGA ZA CHISAMALIRO CHA NKHALANGO 
+12, CHOLINGA CHACHIKULU 
+13, ZOLINGA ZOCHEPERAPO KOMA ZOLUNJIKA KWENIKWENI NTCHITO YA CHISAMALIRO CHA NKHALANGO 
+14,MALAMULO A CHISAMALIRO CHA PHINDU LOCHOKERA M’NKHALANGO 
+15,CHIKONZERO CHA KAGWIRIDWE KANTCHITO 
+16, NDONDOMEKO YA M’MENE ANTHU AKHOZA KULONDERA/KUYENDERA 
+17,Gome  Chikonzero cha m’mene ntchito yolondera nkhalango idzayendere
+18,GOME  Kauniuni wa ndondomeko zofunika kutsatidwa monga mwa chikonzero
+19, KUFOTOKOZERA NTCHITO YA CHIKONZERO CHA KAYENDETSEDWE KA ZINTHU ZOCHOKERA M’NKHALANGO PADERA- PADERA 
+20, NDONDOMEKO YA CHISAMALIRO CHA MITENGO YA NKHUN
+21, Wamkulu wa zankhalango mu Boma (LA NTCHISI)
+22, Mwinimtunda/ (chalo/ Gogo)
+23, Ndondomeko yotukula kasamalidwe ka nkhalango kuti pakhale kupititsa patsogolo umoyo wa anthu
+24, Bungwe la Umodzi wa azungu
+25, Midzi yoona za chisamaliro cha nkhalango
+26, Bungwe la kumudzi la zankhalango
+27, Nthambi ya maofesi a zankhalango (Dipatimenti yoona zankhalango)
+28, Bungwe La Chigawo Chachikulu Losamalira za Nkhalango (BMC)
+29, Mfumu ya m’mudzi
+30, Dera alilkulu la chionjezero pa chikonzekero cha ntchito za ulimi
+31, Bungwe loyang’anira chisamaliro cha nkhalango
+32, Kagawo kolumikiza m’ndandanda wa zintchito zoyendetsera nkhalango
+33, Mfumu yoyang’anira midzi ingapo
+34, Bungwe limene silili la boma
+35, Bungwe la m’mudzi Loyang’anira zachilengedwe
+36, Gulu la Mamembala ogwiritsa ntchito nkhalango
+37,"Ndondomeko ino ili kuphera mphongo kukambirana, kuunika, kudziwitsana ndi kufunsira ndiponso kukonzekera kumene kunalipo ndi anthu a dera la Chanika"
+38,Ntchitoyi idatsogoleredwa ndi ogwira ntchito ku ofesi yoona za nkhalango ochokera ku Dipatimenti yoona za nkhalango
+39," Cholinga chake ndi kupatsa mphamvu anthu a m’dera la GVH Chanika kupanga chiganizo ndi kutenga udindo komanso kupititsa patsogolo umodzi pa chitetezo, chisamaliro ndi kugwiritsa ntchito mosamala zinthu zonse zochokera m’nkhalango ya mu Buloko ya Chanika kuti adzapezenso zina mtsogolo"
+40,Izi ndi zogwirizana ndi mfundo ya zankhalango ya boma laMalawi imene idakhazikitsidwa m’chaka cha 1996
+41,Mfundoyi imanenetsa za kufunika kopatsaeni dera udindo waukulu wosamalira nkhalango ndi kukhala ndi mwayi womagwiritsa ntchito mitengo ndi zonse za m’nkhalangomo
+42,"Ndondomeko yokonzekera, kudziwitsana ndi kufunsira, komanso kukambirana pachikonzero chosamalira nkhalangoyi idavomerezedwa ndi anthu onse okhudzidwa m’derali"
+43,"Ntchito yonseyi anthu amatengapo mbali ndi cholinga chokhazikitsa kusabisirana pa zochitika zonse, kuti chikonzekero chikhale chofuna anthu komanso kuti onse akalandire maudindo mosaona kuti ndi mkazi kapena mwamuna"
+44,Ndondomekoyi imakhazikitsa malamulo oyenera ku anthu a derali ndiponso malamulo amene ndi osavuta kutsatira kuti athandize pa chitetezo ndi chisamaliro cha ntchito yoona za nkhalango m’dera la Chanika komanso kuti pakhale phindu la lero ndiponso la mtsogolo
+45,Kuteteza nthaka yonse yozungulira imene ndi gwero la mitsinje komanso imene imapereka madzi
+46,Kuti pakhale chisamaliro chokwana pa udzu ndi msipu wosiyanasiyana umene umamera m’mphepete mwa mitsinje
+47,Kutukula miyoyo ya anthu okhala mwa GVH Chanika popeza zinthu zogulitsa zochokera m’nkhalango
+48,Kuti anthu azipanga zinthu zooneka bwino pogwiritsa ntchito mitengo ndi zina zochokera m’nkhalango
+49,Kuteteza udzu ndi zomera zobiriwira za m’mphepete mwa timitsinje ndi cholinga chofuna kuti madzi aziyenda chaka chonse kuti anthu azigwiritsa ntchito pa ulimi wa mthirira ndi ntchito zina za makomo
+50,Kuteteza kukokoloka kwa nthaka imene ili malo ozyolika [opendekeka kwambiri]
+51,Kulimbikitsa chitetezo ndi chisamaliro cha nyama za m’tchire ndi maluwa a m’thengo
+52,Kupititsa patsogolo ntchito yotulutsa zinthu zabwino zochokera m’nkhalango kuti anthu azigwiritsa ntchito m’makomo ndi zina zokagulitsa
+53,Kuteteza mitengo ndi nthaka ku madera onse amene ndi magwero a mitsinje kuzungulira derali
+54,Kuteteza za chilengedwe zimene zili mphepete mwa mitsinje
+55,Kugulitsa zina mwa zinthu zochokera m’nkhalango mwadongotsolo ncholinga chotukula miyoyo ya anthu
+56,Kupezeka kwa ndalama m’makomo zochokera m’nkhalango
+57,Kuchuluka kwa mitengo mphepete mwa mitsinje
+58,Kukula kwa dera lopanda chitetezo ndi kukula kwa malo amene ndi gwero la mitsinje kuzungulira derali
+59,Kulemba zokambirana pa nthawi ya misonkhano uliwonse (maminitsi)
+60,Kulemba makalata oitana anthu pakafunika misonkhano
+61,Kuwerenga maminitsi a mfundo zonse za msonkhano umene udachitika m’mbuyo mwa msonkhano
+62,umene ukufuna kuchitikawo
+63,Kukhala m’modzi wa osainira pakakhala zinthu zofunika kutapa ndalama ku banki
+64,Kulondoloza ndi kulinganiza zimene Msungi chuma akulemba
+65,Kulemba ndi kusunga zolembedwa za katundu yense wa gululi
+66,Akhale wodziwa kulemba ndi kuwerenga
+67,Akhale wachidwi ndi ntchito zankhalango
+68,Akhale wochokera mwa a GVH Chanika
+69,Akhale osamangidwapo

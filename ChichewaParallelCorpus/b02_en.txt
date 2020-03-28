@@ -1,0 +1,50 @@
+0,"Tea is one of the most important agricultural crops in East and Southern Africa, and is a source of income for countless smallholder farmers"
+1," However, if unsustainable practices are allowed to continue, they will contaminate the environment, exhaust the water or soil, and exploit the workers"
+2," Such way, tea production cannot be sustained in the long run"
+3,Use of pesticide is not the only way to control pests and diseases
+4," When tea bushes are maintained strong and healthy in Africa, they should be able to outgrow short-term pest infestations, without applying chemicals"
+5, Spraying would kill the natural enemies of pests and could allow epidemics to develop
+6," In this section, we learn about how to manage pests and diseases in a sustainable way"
+7,"When you plant a new tea bush, choose clones that are resistant to pests and diseases, such as mites and Helopeltis"
+8," It is better to plant several clones, instead of just one clone"
+9," When planting several clones, plant them in blocks of pure stands for easier management"
+10,"If the field had been previously infested by a root disease, such as Armillaria, the disease can still be hosted in the roots of remaining trees"
+11," Therefore, they need to be eliminated through a method called “ring barking” which is removal of the back around the tree to kill the pathogen in the roots"
+12,"Mulching and maintaining a good canopy prevent the light from reaching the ground, hence controlling the weed growth"
+13, Weeding with a hoe could damage the roots of the tea bushes
+14, It is better to pull out weeds by hand
+15,Moles and rats that damage the roots of tea bushes
+16," Their damage can be prevented by digging trenches, and by planting molerepellent plants, such as Tephrosia vogelli and Tagetes minuta (Mexican marigold), Onion and Garlic"
+17, Avoid killing them
+18,"If you see sunken lesions of woody tissue on stems and branches, these are signs of Phomopsis infestation"
+19, Phomopsis is a fungal disease that enters through open wounds on stems and branches
+20, The wounds could have been caused by a hoe during manual weeding or by moles and rats
+21,"To control Helopeltis infestation, it is recommended to pluck all the young soft leaves and leave only the hard leaves in the field"
+22, This method is called “Hard plucking”
+23," By removing all the soft leaves that Helopeltis can feed on, their population can be controlled"
+24,Ladybirds are Aphids’ natural enemies
+25, Ladybirds feed on Aphids and control their population
+26, Spraying insecticide would kill not only Aphids but also Ladybirds
+27," By not spraying insecticide, you can protect Ladybirds and maintain the natural control of Aphids"
+28,"After spraying chemicals, you need to wash your application equipment and personal protective clothing (PPE)"
+29," Water used to wash these equipment contains chemicals, so if you do not manage it properly, it would contaminate the environment"
+30,"When you spray vegetable fields, wash the equipment and pour the washing water back to the field"
+31,"When you spray animals, wash the equipment and pour the washing water into a soak pit"
+32," A soak pit should be filled with charcoal, which helps to purify the water"
+33, Do not cut down indigenous trees to make charcoal
+34, Remember also to wash the protective clothing
+35, Treat the washing water in the same way as described above
+36,"Domestic waste water, when its quantity is small, can be disposed by pouring into a canal dug in the backyard garden"
+37," The canal should be planted with bananas and arrow roots, both of which absorb water very well"
+38,"Eucalyptus trees are good source of fuel, but when they are planted near a wetland, river, stream or well, they absorb so much water that they can exhaust the water source"
+39," If a stream or well gets dried up, it would cause significant negative impacts on the lives of your family and people in your community"
+40, We need to protect the water sources
+41,"Water is essential for our lives, and we need to secure sufficient supply of water for our living"
+42, Harvesting rain water is an economic and efficient way to obtain water
+43," You can collect the rain water that falls on the roof, and keep it in a tank"
+44," You can use it in houses, and you can also use it for drinking after treating it or boiling it"
+45," Rain is an important source of water, and we should know how to use it well"
+46,"Burning destroys organic matter and microorganisms in the soil, and makes your soil poorer"
+47, Burning for preparing the land is prohibited
+48,"When a kitchen does not have escape for the smoke, the smoke contained in the room would cause serious health effects, damaging the lungs and eyes of the workers and their families"
+49, A kitchen with a chimney protects their health and improves the workers’ quality of lives significantly

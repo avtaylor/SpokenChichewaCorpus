@@ -1,0 +1,46 @@
+,0
+0,Had a child come to stay in your house?
+1,Have you divorced or separated from your spouse?
+2,Have you learned that you got someone pregnant?
+3,Have you moved to a better house?
+4,Have you moved to a worse house?
+5,Have you proposed a woman?
+6,Was it a surprise? 
+7,Had other adults come to stay in your house?
+8,Death of a child
+9,Death of a parent
+10,Death of a close friend
+11,Death of a sibling
+12,Death of other household member
+13,Has your spouse or partner migrated for work?
+14,Has your health improved?
+15,Has your health declined?
+16,Have you experienced a shortage of food in your household?
+17,Have you heard rumors that your partner is having other partners?
+18,Have you lost weight?
+19,Has your spouse started losing weight?
+20,Have you experienced the death of a spouse or partner?
+21,Have you found a better job?
+22,Has anyone else in your household been affected by witchcraft?
+23,Has your spouse had any injury or accident?
+24,Has your spouse or partner been ill?
+25,Has your spouse or partner found a good (better) job?
+26,"Has your spouse or partner lost a job, or moved to a worse job?"
+27,Has your spouse/partner had a miscarriage?
+28,Has your spouse/partner had an abortion?
+29,Have you been hospitalized?
+30,Have you experienced pressure from relatives to have children?
+31,Have you had any injury or accident?
+32,Have you had malaria?
+33,Have you had problems paying your school fees?
+34,Have you had trouble in school?
+35,Have you lost your job; or moved to a worse job?
+36,Have you personally been affected by witchcraft?
+37,Have you proposed marriage?
+38,Illness of child
+39,Illness of parent
+40,Illness of sibling
+41,Have a religious ceremony?
+42,Have a traditional ceremony?
+43,Just move in together?
+44,Register your marriage w/ the government?

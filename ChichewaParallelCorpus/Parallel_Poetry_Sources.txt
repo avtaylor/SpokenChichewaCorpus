@@ -1,0 +1,11 @@
+FileName,	ChichewaTitle	,	English_Title,		Author	,	NewsPaper,		NewspaperDate	,	Translator
+p01_en	,	"Nyali Yawala"	,	The Lamp is Lit	,	 Joe Chinguwo	,	The Monitor	,	27-May-93	,	P. Kishindo
+p02_en	,	"Tiribe pabwino"	,	We do not know what is good for us	,	M. Ungapembe	,	Malawi News	,	14-May-94	,	P. Kishindo
+p03_en	,	"Anali kuti?" 	,	Where were they?	,	M. Ungapembe	,	Malawi News	,	20-May-94	,	P. Kishindo
+p04_en	,	Mnyamata wa chamba"	,	The cannabis boy	,	Chief Mafeke Jr 	,	The Mirror	,	12-Apr-94	,	P. Kishindo
+p05_en	,	"Mwakonzeka?" 	,	Are you ready?	,	 G. Soko.	,	The Independent 	,	05-Apr-94	,	P. Kishindo
+p06_en	,	"Chitukuko cha Muluzi" 	,	Muluzi's development	,	Frank Kalilombe	,	Malawi News	,	Jun-98	,	P. Kishindo
+p07_en	,	"Mwachitanji nanga?"	,	What have you done?	,	Elisha Chitani	,	Malawi News	,	Jun-98	,	P. Kishindo
+p08_en	,	"Tsiku losankha tsogolo"	,	The day to choose our future	,	Victor Chitika	,	Malawi News	,	Jun-98	,	P. Kishindo
+p09_en	,	"Kodi mudzakwaniritsadi?" 	,	Will you satisfy us	,	Greyson Ndenguma	,	Weekend Nation	,	12-Jun-98	,	P. Kishindo
+p10_en	,	"Chafika chisankho"	,	The elections are here	,	Ezekiel Kapina	,	Weekend Nation	,	12-Jun-98	,	P. Kishindo

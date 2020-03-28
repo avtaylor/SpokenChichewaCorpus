@@ -1,0 +1,8 @@
+0	,	Tilibe nanu chikhumbo
+1	,	Ziwawa nzosathandiza
+2	,	Ndi mbiri yoipa
+3	,	Chanu chipani chitchuka
+4	,	Osati nkhondo
+5	,	Ndife amodzi
+6	,	Tisagawikane
+7	,	Poti cha.fika chisankho

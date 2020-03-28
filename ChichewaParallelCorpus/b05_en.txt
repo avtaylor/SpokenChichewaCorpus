@@ -1,0 +1,114 @@
+0,About how far did you travel to get here?
+1,About how much time did it take you to get here?
+2,Who accompanied you?
+3,Did anyone accompany you here today?
+4,And what about you yourself? Your background?
+5,What tribe do you belong to?
+6,What languages can you speak well enough to have a conversation?
+7,"How many people, including yourself, usually sleep in your household?"
+8,How many of these are children under the age of 15?
+9,"How many are elderly, over age 64?"
+10,How many are between the ages of 15 and 64?
+11,When were you born? 
+12,In which village do you live?
+13, Is this in Balaka District?
+14," Is this a city, town, trading centre or village?"
+15,How long does it take you to walk to the nearest trading centre?
+16,Have you always lived in the current location?
+17, How long have you lived here?
+18,What was the main reason you moved here?
+19,"Since you were five years old, in how many different locations did you live for three months or more?"
+20,What was the last standard/ form that you completed? 
+21,Are you currently enrolled in school?
+22,Now we are going to play a game
+23, I will read some numbers to you one time
+24, I will wait a little and ask you to repeat them
+25, Are you ready to start?
+26,"Last time you were here, you told us about your children"
+27, I'm going to now ask you about the children you told me about as well as any new children you may have had
+28, I would like to have a complete list of all the children you have ever had who were born alive
+29,Please tell me the all the children's names
+30,Is [NAME] male or female?
+31,In what month and year was [NAME] born?
+32,What is the name of [NAME's] biological father?
+33,What is the name of [NAME's] biological father?
+34,Is the biological father living in the household?
+35,"Was this child born at home, in a hospital/clinic, or somewhere else?"
+36,How much did [NAME] weigh at birth?
+37,Did you receive any gift in form of money from hospital during pregnancy or when you gave birth?
+38,How much money did you receive?
+39,Did you get fined by the chief for anything having to do with this pregnancy or birth?
+40,How much did the chief fine you?
+41,Why did the chief fine you?
+42,Why isn't [NAME] living with you?
+43,Excellent
+44,Very Good
+45,Good
+46,Fair
+47,Poor
+48,How would you compare [NAME]'s health to other people of the same age and sex in your village?
+49,Much better
+50,Better
+51,Same
+52,Worse
+53,Much worse
+54,"In the past two weeks, has [NAME] had a cough that is accompanied with short rapid breathing?"
+55,"In the past two weeks, has [NAME] had a fever?"
+56,Is [NAME] enrolled in school?
+57,At what age did [NAME] first go to school?
+58,"And how many children have you ever given birth to, including ones that may have died?"
+59,Are you pregnant now?
+60,How many months pregnant are you?
+61,Sometimes people get pregnant and lose the baby while pregnant and sometimes they decide not to have the baby
+62," I am interested in all the times you've known you were pregnant that did not end in a live birth, including any miscarriages, abortions, and still-births"
+63, Could you please tell me about these pregnancies since 2012?
+64,Miscarriage
+65,Abortion
+66,Stillbirth
+67,This question asks about contraception
+68," This might include condoms, pills, injections, implants, coils, vasectomy, female sterilisation or any other method aimed at delaying pregnancy"
+69, In the month that I became pregnant
+70,The next few questions ask about before you became pregnant
+71,I intended to get pregnant
+72,My intentions kept changing
+73,I did not intended to get pregnant
+74,I wanted to have a baby
+75,I had mixed feelings about having a baby
+76,I did not want to have a baby
+77,How long would you like to wait before having your first/next child?
+78,As soon as possible
+79,Less than two years
+80,Two to three years
+81,Three to four years
+82,Four to five years
+83,Five or more
+84,No preference
+85,Your husband gets a job with a good steady salary
+86,You get a job with a good steady salary
+87,You hear rumors that your partner is sleeping with other women
+88,Your partner wants fewer children than you do
+89,Your youngest child is seriously ill
+90,You have only male children
+91,You have only female children
+92,Your mother becomes seriously ill
+93,Your mother passes away
+94,You learn that you have HIV but don't have any symptoms
+95,I am interested in your general level of well-being or satisfaction with life 
+96,"How satisfied are you with your life, all things considered?"
+97,"Do you think that you are more, equally or less satisfied than other persons your age living in your village?"
+98,I have felt depressed
+99,I have felt life was not worth living
+100,I have felt content
+101,Very often
+102, Fairly often
+103,Sometimes
+104, Almost never
+105,Never
+106,I have felt lonely
+107,I have felt unable to control the important things in my life
+108,I have felt confident about my ability to handle my personal problems
+109,How many people overall have you ever had sex with in your lifetime?
+110,"So, you’re saying you’ve never had sex?"
+111,How old were you when you first had sex?
+112,Does she currently have any children?
+113,Is she currently pregnant?

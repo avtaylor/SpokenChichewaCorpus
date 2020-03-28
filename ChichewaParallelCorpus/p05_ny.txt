@@ -1,0 +1,13 @@
+0	,	Kwezani maso a Malawi
+1	,	Kukwezera ku tsikulo
+2	,	Zamitsani nzeru inu
+3	,	Usapite wotere mwayi makosana
+4	,	Zidze pano nzatonse nthuni
+5	,	Mosasamala anasankha oziyelekera ubwino
+6	,	Atilangitsa ife - atipweteka
+7	,	Taphedwa mokwana, tamangidwa mokwana
+8	,	Ali kuti malume ngati sali kuli chete
+9	,	Tisakanganenso za zipani tiyeni tiganize mwakuya
+10	,	Papita pokambakamba tsono tisankhe
+11	,	Tengani mbali pokonza tsogo/o
+12	,	Tsogolo lopatsa chidwi ndinso laufulu

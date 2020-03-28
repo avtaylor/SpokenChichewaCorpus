@@ -1,0 +1,9 @@
+0	,	What have you done
+1	,	Since 1999 is here
+2	,	You said we will feel your presence
+3	,	When you were mouthing your development plans
+4	,	What have you done?)
+5	,	Didn't you say where there were no roads there'll be roads
+6	,	Who are you going to vote for Malawians
+7	,	Since 1999 is here
+8	,	What have you done my friends?

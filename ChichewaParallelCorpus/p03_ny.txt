@@ -1,0 +1,8 @@
+0	,	Kodi onsewa sanali mommuno
+1	,	Bwanji sanaonetse chawo chamuna
+2	,	Pothyola chonyansacho chitaganya
+3	,	Bwanji sanajune kulimbana ndi azungu aja
+4	,	Ndikuwagonjetsa?
+5	,	Kodi kumeneku sikukolola posadzala?
+6	,	Mphanje Ngwazi anathyola, nsinga nadula,
+7	,	Yao Miyoyo ndi dziko natukula

@@ -1,0 +1,13 @@
+0,	Nyali yawala
+1,	Y awaladi nyali
+2,	M'dima wathawa
+3,	Tambala walira nayesa kunja kwacha
+4,	Kuwala kodabwitsako kwamufikira
+5,	Zachisoni iye wakondadi m 'dima
+6,	Mwake mumtima mtendere umusowa
+7,	Monga mbalame yopanda chisa tulo alisowadi
+8,	Monyansidwa ayesayesa kuthimitsa nyaliyo
+9,	Wake mdima akutero
+10,	Lero ndife afulu enieni
+11,	Kukhala sikumeneku anthuni?
+12,	Unali kuti nthawi yonseyi?

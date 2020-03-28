@@ -1,0 +1,12 @@
+0	,	Koma nanu azipani atsogoleri
+1	,	Musakomedwe n 'kulorif eza
+2	,	Pongotengera mwayi
+3	,	lnde wolankhula pa wayilesi
+4	,	lnde zambiri mwalonjezadi
+5	,	Koma ichi dziwani
+6	,	Wadzisuletu nsapato samulonjeza
+7	,	Ndife 'agocho '
+8	,	Ndiye musatilonjeze mwana Zero
+9	,	Poti mukadzapanda kutipatsa mawa
+10	,	Zanuzo nsapato
+11	,	Tidzakulandani

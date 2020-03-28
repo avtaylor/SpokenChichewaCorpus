@@ -1,0 +1,50 @@
+0,"Tiyi ndi imodzi mwa mbewu zothandiza ku mwera ndi kum'mawa kwa Afilika, ndipo imathandiza alimi ambiri kupeza ndalama"
+1," Koma ngati alimi satsatira ndondomeko yoyenerera pa ulimi wa mbewuyi, chilengedwe, madzi ndi nthaka zimawonongeka, komanso ogwira ntchito pa mundapo amavutika"
+2, Choncho ulimi wa tiyi umenewo si umapitiliranso
+3,Kugwiritsa ntchito mankhwala si njira yokhayo yotetezela mbewu ku tizilombo ndi matenda
+4," Ngati tiyi akusamalidwa bwino mu Afilika, atha kupilira ku tizilombo popanda kuthira mankhwala"
+5, Kupopera mankhwala kukhoza kuwononga chitetezo cha mbewu ndikupangitsa kuti matenda ayambe
+6," Mu gawo limeneli, tiphunziramo za m'mene tingapewere matenda ndi tizilombo"
+7,"Ngati mwabzala phata latsopano la tiyi, musankhe mbewu za tiyi zomwe zimapilira ku matenda ndi tizilombo tomwe timaononga tiyi"
+8, Ndibwino kubzala mbewu zambiri za tiyi osakhala imodzi yokha
+9," Ngati mwabzala mbewu za tiyi zosiyana, muzibzale mtundu uliwonse padera kuti musavutike pozisamalira"
+10,"Ngati mundawo unagwidapo ndi matenda owononga mizu, matendawa atha kukhala kuti atsalira mu mitengo imene idakali m'mundamo"
+11," Choncho, ndikoyenera kuti matendawa athetsedwe pogwiritsa ntchito njira yosadzula mitengo"
+12, Iyi ndi njira imene mumasadzula makungwa a mtengo
+13,Kuphimba tiyi komanso kuonetsetsa kuti phata la tiyi liri pa mlingo wabwino zimathandizila kuti dzuwa lisaombe pa nthaka
+14, Izi zimathandizira kuti zomera zosafunikira zisamele
+15, Ndibwino kupalira ndi manja chifukwa kupalira ndi khasu kumathanso kuwononga mizu ya tiyi
+16,Mbewa zomwe zimaononga mitsitsi ya tiyi
+17, Mbewa zikhoza kupewedwa pokumba Mayenje komanso pobzala mbewu zina zimene zimathamangitsa tizilombo
+18," Mbewu zimenezi ndi monga Mthuthu (Tephrosia vogelli- mtundu wa chomera umene umagwiritsidwa ntchito yopangila mankhwala a m'munda), Tagetes minuta (mtundu wa chomera umene uli mgulu la mpendadzuwa), anyezi ndi adyo"
+19,"Ngati mukuwona kuti mitengo ili ndi ti zilonda pa tsinde ndi nthambi, dziwani kuti izi ndi zizindikiro za matenda owoletsa mitengo"
+20, Awa ndi matenda amene amagwira mtengo kudzela mu tizilonda timene timadza chifukwa chakuti mtengo wakhapidwa
+21, Mtengo utha kukhapidwa pamene mukupalira ndi khasu komanso tizilombo ndi makoswe zitha kubowola mtengo
+22,"Kuti muthane ndi udzudzu wa tiyi, mukuyenera kutchola masamba anthete a tiyi ndikusiya masamba okhwima"
+23," Potchola masamba onse anthete amene amadyedwa ndi udzudzu wa tiyi, zimathandiza kuti udzudzuwu usapitilire"
+24," Kuti mupewe matenda a udzudzu wa tiyi, ndibwino kubzala mitundu ya mbewu ya tiyi imene imapilira ku udzudzu wa tiyi"
+25,Mbalame zina zimadya tizilombo ndikuchepetsa chiwerengero chatizilomboti
+26, Mukapopela mankhwala tizilombo pamodzi ndi mbalame zomwe zimafa
+27," Posapopela mankhwala, mumateteza mbalamezi zimene zimathandiza pochepetsa tizilombo"
+28,"Mukatha kupopera mankhwala, muyenera kutsuka zipangizo zothiririra mankhwala ndi zozitetezera"
+29," Madzi otsukira amatsalira mankhwala, ndiye ngati simusamala, akhoza kuononga chilengedwe"
+30,"Mukapopera mankhwala m'madimba a masamba, tsukani zida ndikuthira madzi m'dimba momwemo"
+31,"Mukapopera mankhwala zifuyo, tsukani zida ndikutaya madzi mdzala/mdzenje"
+32, Mdzenje muyenera kudzadza makala omwe amathandiza kuyeretsa madzi
+33, Osadula mitengo yachilengedwe kuti mupange makala
+34, Kumbukiraninso kuchapa zovala zozitetezera
+35, Madzi ochapira atayidwe monga tafotokozera pamwambapa
+36,"Ngati madzi okutha ntchito ali ochepa, akhoza kutayidwa mungalande yokumbidwa kumbuyo kwa dimba"
+37, Ngalande idzalidwe ndi nthochi ndi mizu yomwe imamwa madzi ambiri
+38,"Mitengo ya bulugama imapereka nkhuni, koma ikabzalidwa pamalo ponyowa, mtsinje kapena chitsime, imamwa madzi ambiri mpaka kuumitsa madzi"
+39," Ngati mtsinje kapena chitsime ziuma, zingathe kukhudza miyoyo ya apabanja panu ndi anthu amudera mwanu"
+40, Tikuyenera kuteteza magwero a madzi
+41,"Madzi ndi moyo, choncho timafuna madzi okwanira pa miyoyo yathu"
+42, Njira ina yopezera madzi yosavuta ndi kukolola madzi a mvula
+43, Mungakolole madzi a mvula amene amagwa pa denga nkuwasunga mu thanki
+44, Mukhoza kuwagwiritsa ntchito madzi amenewa mnyumba mwanu pokumwa koma mutawawiritsa kaye
+45," Mvula ndi gwero lodalirika la madzi, choncho tidziwe mmene tingawagwiritsire ntchito madzi athuwo"
+46,"Kutentha kumaononga manyowa ndi tizilombo tobwezeretsa nthaka mudothi, zomwe zimagugitsa nthaka"
+47, Kutentha pokonza malo ndikoletsedwa
+48,"Mukhitchini mukakhala mopanda potulukira utsi, utsi otsala muchipinda ukhoza kudzetsa mavuto azaumoyo, kuononga mapapo ndi maso a ogwira ntchito ndi mabanja awo"
+49, Khitchini yapotulutsira utsi imateteza umoyo wawo ndipo imatukula miyoyo ya ogwira ntchito

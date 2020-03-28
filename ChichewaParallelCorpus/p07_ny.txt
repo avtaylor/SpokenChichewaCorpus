@@ -1,0 +1,9 @@
+0	,	Mwachitanji nanga
+1	,	Poti 1999 ija yafika
+2	,	Munkati tikumvetsani
+3	,	Mukubwebwetuka ndi mapulani a chitukuko
+4	,	Nanga mwachitanji?
+5	,	Suuja munkati kulibe misewu kukhale misewu
+6	,	Nanga muvotere yani a Malawi
+7	,	Pott 1999 yafika
+8	,	Mwachitanji anzanga?

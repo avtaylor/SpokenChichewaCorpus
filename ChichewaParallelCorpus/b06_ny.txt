@@ -1,0 +1,46 @@
+,0
+0,Kwabwera mwana wodzakhala m’nyumba mwanu?
+1,Ukwati wanu watha kapena mwasiyana ndi akazi anu?
+2,Munamvetsedwa kuti mwapeleka mimba?
+3,Mwasamukira kunyumba yabwinoko?
+4,Mwasamukira kunyumba yosakhala bwino?
+5,Mwafunsilapo mkazi wina?
+6,Munazizwa nazo?
+7,Kwabwera anthu ena achikulire odzakhala m’nyumba mwanu?
+8,Mwana wanu anamwalira
+9, Kumwalira kwa makolo
+10,Kumwalira kwa nzanu wapamtima
+11, Kumwalira kwa mchimwene/mchemwali wanu
+12, Kumwalira kwa munthu wina okhala mnyumba mwanu?
+13, Akazi/chibwenzi chanu chasamukila kukakhala kuntchito
+14,Umoyo wanu wanthupi wapita patsogolo?
+15,Umoyo wanu wanthupi walowa pansi?
+16,Mwakumana ndi vuto lochepa chakudya mnyumba?
+17,Kodi mwamva mphekesela yoti akazi/chibwenzi chanu akuyenda ndi amuna ena?
+18,Kodi kulemela kwathupi lanu kwasika?
+19,Kodi kulemela kwathupi la akazi/chibwenzi chanu kwasika?
+20,Mkazi/chibwenzi chanu chatisiya/chamwalira?
+21,Mwapeza ntchito yabwino
+22,Kodi pali wina aliyense mnyumba mwanu yemwe wakhudzidwapo ndi ufiti?
+23,Kodi akazi/chibwenzi chanu chidakhudzidwapo ndi ngozi iliyonse?
+24,Kodi akazi/chibwenzi chanu chakhala chikudwala?
+25,Kodi akazi/chibwenzi chanu apeza ntchito yabwino?
+26,"chanu chachoka pantchito, chasinthidwa kapena wapeza ntchito yosakhala bwino"
+27,Kodi akazi anu/chibwenzi chanu anapita pachabe?
+28,Kodi akazi anu/chibwenzi chanu anataya mimba?
+29,Munagonekedwa kuchipatala?
+30,Kodi mwakakamizidwa ndi abale anu kuti mukhale ndi ana?
+31,Munavulala kapena kuchita ngozi?
+32,Munadwalapo malungo?
+33,Wakumanako ndi vuto lolipira fizi?
+34,Wakumanako ndi vuto kusukulu?
+35,ntchito; kapena mwapeza ntchito yosakhala bwino
+36,Munakhudzidwapo ndi ufiti?
+37,Mwafunsirapo ukwati?
+38,Kudwala kwa mwana
+39,Kudwala kwa makolo?
+40,Kudwala kwa mchimwene kapena mchemwali?
+41,Munadalitsa ukwati?
+42,Munachita chinkhonswe?
+43,Munangotengana/munangolowana?
+44,Munadulitsa ntchatho?

@@ -1,0 +1,8 @@
+0	,	We have no desire to vote for yoμ
+1	,	Violence does nqt endear us to you
+2	,	With a bad reputation
+3	,	Your party is notorious
+4	,	This is not war
+5	,	We are one
+6	,	We should not be divided
+7	,	Simply because of elections

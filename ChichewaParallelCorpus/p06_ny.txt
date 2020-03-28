@@ -1,0 +1,14 @@
+0	,	Chitukuko chachitikadi
+1	,	Chitukuko chake chosaoneka
+2	,	Tiyeni tiwone za chitukukochi
+3	,	Chitukuko cha Bakili
+4	,	Kusowa kwa mankhwala m 'zipatala
+5	,	Jcho ndicho chitukuko choyamba
+6	,	Kuchedwa kwa malipiro a aphunzitsi
+7	,	Chitukuko cha Bakili
+8	,	Chitukuko chanji chokhalira kuyendayenda
+9	,	Chitukuko chogula ma MP m 'malo mwa chimanga
+10	,	Zikakhala zokonza misewu taiwala
+11	,	Aah! !chi sichitukuko koma kampeni
+12	,	Chitukuko cha Bakili, Uuuu!
+13	,	Zinthu zatotanidyee?

@@ -1,0 +1,22 @@
+0	,	Anthuni
+1	,	lmvani
+2	,	Lero ndafuna ndikuuzeni
+3	,	Za m 'nyamata wina
+4	,	Yemwe lake dzina, Kalua
+5	,	Mnyamatayi
+6	,	Omudziwa bwino akuti
+7	,	Ake malonda anali
+8	,	Ogulitsa chamba
+9	,	Ndi mankhwala ena owononga bongo
+10	,	Anthuni
+11	,	Mosayembekeza
+12	,	Lero mnyamatayi
+13	,	Akuti tizilemekeza Kamuzu
+14	,	Pamene iye ankatukwana yomweyo
+15	,	Kamuzu
+16	,	Kodi tilakwa
+17	,	Tikaganiza kuti mnyamatayi
+18	,	Wagulidwa ndi kongeresi
+19	,	Kapena kuti amatukwana
+20	,	Pa Channel Africa chili boo-boo!
+21	,	M'mutu chamba

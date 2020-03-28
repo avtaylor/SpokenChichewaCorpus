@@ -1,0 +1,71 @@
+,0
+0,MANAGING AUTHORITY
+1,FOREST DESCRIPTION 
+2, General Description
+3, Vegetation 
+4, Soils 
+5, Boundary 
+6, Tenure 
+7, Forest users
+8, FOREST MANAGEMENT UNITS 
+9, Main objectives of Non Harvestable and Harvestable areas 
+10, Specific objectives of Non harvestable and Harvestable areas 
+11, Management objectives 
+12, Overall objective 
+13,Specific Objectives 
+14, RESOURCE USE RULES 
+15, FOREST MANAGEMENT PRACTICES FOR CHANIKA BLOCK 
+16, ACTION PLAN 
+17, Patrolling Plan 
+18, Monitoring and Evaluation Plan 
+19, Management plans for each use 
+20,Management plan for fuel wood
+21,DISTRICT FORESTRY OFFICER/OFFICE
+22,TRADITIONAL AUTHORITY
+23,IMPROVED FOREST MANAGEMENT FOR SUSTAINABLE LIVELIHOOD PROGRAMME
+24,EUROPEAN UNION
+25,FOREST MANAGE MENT UNIT
+26,LOCAL FOREST ORGANISATION
+27,FOREST DEPARTMENT
+28, BLOCK MANAGEMENT COMMITTEE
+29,VILLAGE HEAD
+30,EXTENSION PLANNING AREA
+31,LOCAL FOREST MANAGEMENT BOARD
+32,PROGRAMME CORDINATING UNIT
+33,GROUP VILLAGE HEAD
+34,NON GOVERNMENTAL ORGANISATION
+35,VILLAGE NATURAL RESOURCE MANAGEMENT COMMITTEE
+36, FOREST USER GROUP
+37,"This document is the summary of a process of joint discussion, analysis, Consultation, negotiation and planning by the communityof Chanika"
+38,Facilitation was done by forestry extension workers from Department of forestry
+39," The aim is to empower the people of GVH Chanika to make decisions and take responsibility for and promote collective action for protection, management and sustainable utilisation of their Forest block"
+40,This is in line with the Malawi National Forestry Policy of 1996
+41, Which recognises the need for communities to be given a greater role in the management of forests and access to forest resource
+42,"The output of the process of planning, consultation and negotiation is this Block Management Plan which was agreed by key stakeholders of the area"
+43," The process was participatory with the aim of being people – centred, transparent, equitable and empowering"
+44,It includes resource use rules which are locally relevant and locally enforceable to assist protection and management of the block for both the present and future benefit of Chanika community
+45,To protect fragile and catchment areas
+46,To protect river line vegetation
+47,To improve the economic status of GVHChanika community through sales of forest products such as fuelwood and poles
+48,To produce forest products of high quality
+49,To conserve river line vegetation so that water flow throughout the year for agriculture irrigation and domestic use
+50,To protect steep slopes
+51,To promote conservation of wild life and flora
+52,To promote the production of high quality forest resource products to be used for domestic and sales
+53,To protect steep slopes from soil erosion
+54,To protect river line vegetation
+55,To sell some of the forest products in a sustainable manner in order to uplift our Livelihoods
+56,Presence of money in our household from forest products
+57,The number of trees along stream banks
+58,The size of fragile area eroded
+59,Convening and conducting meetings
+60,Developing agenda for discussions
+61,Develop the Action Plan for Forestry activities
+62,Making sure that the Constitution is followed
+63,Be a bank signatory
+64,Informing other interest parties on the progress of work
+65,Delegating other members to perform other duties
+66,Must know how to read and write
+67,Must have an interest in forestry activities
+68,Must be from GVH Chanika
+69,Must not be a convict

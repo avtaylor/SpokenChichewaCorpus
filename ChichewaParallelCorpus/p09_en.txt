@@ -1,0 +1,12 @@
+0	,	But you party leaders
+1	,	Should not be carried away with making promises
+2	,	Taking advantage
+3	,	Yes of speaking on radio
+4	,	Yes you have indeed promised many things
+5	,	But know this
+6	,	You don't promise shoes to one with calluses
+7	,	We are impotent
+8	,	So don't promise us a child today
+9	,	Because if you don't give us the shoes tomorrow
+10	,	Yours
+11	,	We will surely grab

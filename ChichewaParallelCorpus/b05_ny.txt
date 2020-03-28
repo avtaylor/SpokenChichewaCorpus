@@ -1,0 +1,114 @@
+0,"Mongoyelekeza, mwayenda mtunda wautali bwanji kuti mufike kuno?"
+1,"Mongoyelekeza, zinakutengelani nthawi yayitali bwanji kuti mufike kuno?"
+2,Ndi ndani amene anakupelekezani?
+3,Alipo amene anakupelekezani?
+4,"Nanga zokhuza inuyo, mbiri yanu?"
+5,Kodi ndinu a mtundu wanji?
+6,Kodi ndi ziyankhulo ziti zimene mukhonza kuyankhula bwinobwino?
+7,Ndi anthu angati kuphatikizapo inuyo amene amagona mnyumba mwanu nthawi zambiri?
+8,Ndi ana angati omwe ali ndi zaka zosaposera 15?
+9,Ndi angati achikulire ali oposera zaka 64?
+10,Ndi angati omwe ali ndi zaka pakati pa 15
+11,Munabadwa chaka chanji?
+12,Mumakhala mudzi wanji? 
+13,Mudzi umenewo uli m'balaka muno?
+14,"Kodi umewu ndi mzinda, tauni, Trading Centre kapena ndi mudzi?"
+15,Mumatenga nthawi yaitali bwanji kuh muyende kukafika ku Trading Centre imene muli nayo pafupi?
+16,Kodi chibadwireni mwakhala mull m'dera limeneli? 
+17,Mwakhala nthawi yaitali bwanji kudelalino?
+18,Ndi chifukwa chiti chenicheni chomwe munasamukira kudelalino? 
+19,Kuyambira pomwe munali zaka zisanu ndimadera ena angati asiyanasiyana amene mwakhalako kwa miyezi itatu kapena kuposera apo?
+20,Kodi munalekaza kalasi/fomu iti?
+21,Kodi pakali pano muli pa sukulu? 
+22,Tsopano tisewela masewela
+23, Ndiwelenga manambala ena kwa inu kamodzi kokha
+24, Ndidzadikira kwa kanthawi pang'ono kenako ndidzakufunsani kuti mubweleze ma nambalawo
+25, Mwakonzeka kuti tiyambe?
+26,Nthawi yomaliza imene munabwera kuno munandifotokozera za ana anu
+27, Tsopano ndikufunsani za ana amenewa komanso za ana ena amene muli nawo kapena mwakhala nawo
+28, Ndikufuna ndi dziwem'ndandanda wa ana onse amene munabereka amoyo
+29,Chonde ndiwuzeni dzina/maina a anawa
+30,Kodi [DZINA] ndi wamkazi/wammuna?
+31,Kodi [DZINA] anabadwa mwezi ndi chaka chiti?
+32,Kodi dzina la bambo ake a(dzina) omubeleka ndi ndani?
+33,Kodi dzina la bambo ake a(dzina) omubeleka ndi ndani?
+34,Kodi bambo ake a(dzina) omubeleka mumakhala nawo nyumba imodzi?
+35,"Kodi mwanayu anabadwira kunyumba, kuchipatala, kapena kwina kwake?"
+36,Sikelo yake [DZINA] inakwana bwanji atangobadwa?
+37,Kodi munalandira mphatso ya ndalama kuchokera ku chipatala nthawi imene munali ndi mimba kapena atabadwa mwanayu?
+38,Kodi munalandira mphatso ya ndalama zingati?
+39,Kodi munapeleka chindapusa kwa amfumu chifukwa chamimbayi kapena mutabeleka mwanayu?
+40,Kodi amfumu anakulipitsani chindapusa chandalama zingati?
+41,Ndi chifukwa chani anfumu anakulipitsani chindapusa?
+42,Chifukwa chani [DZINA] sakhala ndi inu?
+43,Wabwino koposa
+44,Bwino kwambiri
+45,Bwino
+46,Choncho
+47,Suli bwino konse
+48,Kodi mungasiyanitse motani umoyo wa [DZINA] ndi anthu ena a m’mudzi mwanu omwe akufanana nawo zaka?
+49,Uli bwino kwambiri
+50,Uli bwino ndithu
+51,Siunasinthe
+52,Siwuli bwino
+53,Siwuli bwino konse
+54,"Pa masabata awiri apitawa [DZINA], anadwalapo chifuwa chophatikizana ndi kubanika?"
+55,Pa masabata awiri apitawa [DZINA] anatenthapo thupi?
+56,Kodi (dzina) alipa sukulu?
+57,Kodi (dzina) anayamba sukulu ali ndi zaka zingati?
+58,Ndi ana angati onse amene munabelekapo chiyambile kuphatikizilapo omwe anamwalira?
+59,Kodi pakali pano ndinu oyembekezera?
+60,Ndinu oyembekezera kwa miyezi ingati?
+61,"Nthawi zina amayi amakhala oyembekezera ndipo amatha kupita padera, komaso nthawi zina amasankha kuchotsa pathupi"
+62," Ndili ndi chidwi ndi nthawi zonse zomwe munazindikira kuti mwakhala oyembekezera zimene simunabeleke mwana wa moyo kuphatikizapo kupita padera kutaya mimba ndi kubeleka mwana wakufa, chonde mungandiuzeko za mimba zimenezi kuchokera chaka cha 2012?"
+63,Kupita padera 
+64,Kutaya pathupi
+65,Ntayo 
+66,Funsoli likufunsa za njila zolerera
+67," Izi zikhoza kukhala makondomu, mapilitsi, jekeseni, norplant kapena kutseka kwa abambo kapena amai kapena njira ina iri yonse yoteteza kuti musatenge mimba"
+68, Mwezi omwe ndinatenga mimba
+69,Mafunso angapo otsatilawa ndi okhudza inuyo musanakhale ndi mimba
+70,Ndinali ndi cholinga chotenga mimba
+71,Ndinkasinthasintha maganizo
+72,Ndinalibe cholinga chokhala ndi mimba
+73,Ndimafuna kukhala ndi mwana
+74,Ndinali ndi maganizo osiyanasiyana pa zokhala ndi mwana
+75,Sindimafuna kukhala ndi mwana
+76,Kodi mungakonde mutadikira nthawi yaitali bwanji musanabereke mwana wanu woyamba/wotsatira?
+77,Pompano/posachedwa pa
+78,Pasanathe zaka ziwiri
+79,Zaka ziwiri kufikira zitatu
+80,Zaka zitatu kufikira zaka zinayi
+81,Zaka zinayi kufikira zaka zisanu
+82,Zaka zisanu kapena kuposela apo
+83,Mulimonse/nthawi ina iliyonse
+84,Mwamuna wanu wapeza ntchito yamalipiro abwino ndi yokhazikika
+85,Mwapeza ntchito yamalipiro abwino ndi yokhazikika
+86,Mwamva mphekesera yoti mwamuna wanu akugonana ndi akazi ena
+87,Mwamuna wanu akufuna ana ocheperapo kuposa omwe inu mukufuna
+88,Mwana wanu wamng'ono kwambiri akudwala mwakayakaya
+89,Muli ndi ana amuna okha okha
+90,Muli ndi ana akazi okha okha
+91,Mayi anu akudwala mwakayakaya
+92,Mayi anu amwalira
+93,Mwazindikira kuti muli ndi HIV koma mulibe zizindikiro zilizonse
+94,Ndikufuna ndidziwe zochitika m’moyo wanu
+95, 
+96,"Poganizira zinthu zonse, Kodi ndinu wokhutira bwanji ndi moyo wanu?"
+97,"Kodi mukuganiza kuti ndinu okhutitsidwa kwambiri, chimodzimodzi kapena pang'ono poyelekeza ndi anthu ena amene mukufanana nawo zaka a m'mudzi mwanu?"
+98,Ndinali okhumudwa
+99,Ndimaona ngati bola ndidakangofa
+100,Ndinali okwanilitsidwa
+101,Pafupipafupi kwambiri 
+102,Pafupipafupi
+103,Nthawi zina
+104,Pafupifupi sizinachitikepo
+105,Sizinandichitikilepo 
+106,Ndinagokhala ndekha ndekha
+107,Ndalephera kuwongolela zinthu zofunika pa moyo wanga
+108,Ndimazikhulupilira kuti ndili ndi kuthekera kothana ndi mavuto anga
+109,Kodi ndi anthu angati amene mwagonana nawo chiyambire kuchita zogonana?
+110,Ndiye mukuti simunagonane ndi wina aliyense?
+111,Kodi kuyamba kugonana ndi munthu munagonana naye muli ndi zaka zingati?
+112,Kodi mzanuyu ali ndi ana pakali pano?
+113,Kodi pakalipano ndiwoyembekezera?

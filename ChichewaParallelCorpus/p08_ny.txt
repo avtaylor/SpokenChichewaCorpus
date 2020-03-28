@@ -1,0 +1,7 @@
+0	,	Potitu kumudzi kuno
+1	,	Deya ndiye watikola
+2	,	Kodi n 'zokuonerani wawa?
+3	,	Potitu zikakhala njinga
+4	,	Zija munatilonjeza
+5	,	Ndi sipokosi yomwe ife
+6	,	Sitinaione

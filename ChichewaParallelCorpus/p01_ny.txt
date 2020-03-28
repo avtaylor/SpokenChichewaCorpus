@@ -1,0 +1,13 @@
+0	,	he lamp is lit
+1	,	Bright indeed is the lamp
+2	,	The darkness has disappeared
+3	,	The cockerel crows thinking it's dawn
+4	,	The dazzling light has reached him
+5	,	Alas! He loves darkness
+6	,	He has no peace of mind
+7	,	He is sleepless like a bird without a nest
+8	,	With hate he tries to extinguish the lamp
+9	,	His is the darkness, he says
+10	,	Today we are genuine citizens
+11	,	lsn 't this the way to live?
+12	,	Where were you lamp?
